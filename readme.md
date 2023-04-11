@@ -1,14 +1,10 @@
 # 💼 Responsive Company Portfolio Website By HTML, CSS, BootStrap, JavaScript & Jquery.
-## [LinkedIn](https://www.linkedin.com/in/mohab-mohammed-59a317176/) 💙
-## [Youtube](https://www.youtube.com/channel/UCo92JwtW5CbyN3XO6O0qocA) 💙
+
 ### 💼 Responsive Company Portfolio Website
 
 - Responsive Company Portfolio Website Design Using HTML, CSS, BootStrap, JavaScript & Jquery.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 - Available Email.js
-
-💙 Join the Instagram Page to see  Code summaries. [web_coding_official_](https://www.instagram.com/web_coding_official_/)<br>
-💙 Join the YouTube Channel to see  My Courses. [Mohab Mohammed](https://www.youtube.com/channel/UCo92JwtW5CbyN3XO6O0qocA)
 
 ![preview img](/preview/FireShot%20Capture%20046%20-%20Home%20-%20127.0.0.1.png)
 ![preview img](/preview/FireShot%20Capture%20047%20-%20About%20-%20127.0.0.1.png)
